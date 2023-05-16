@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Detz.
+### 👋 Hi, I'm AlexanderOI.
 ### 👀 I'm interested in creating and automating anything.
 ### 🌱 Currently, I'm learning software development...
 
