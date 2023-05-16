@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I'm Detz.
+### 👀 I'm interested in creating and automating anything.
+###🌱 Currently, I'm learning software development...
 
 <!--
 **AlexanderOI/AlexanderOI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
