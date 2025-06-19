@@ -1,6 +1,20 @@
-# 💫 About Me:
-My name is Alexander Ortiz, I am a Junior Developer passionate about technology and computer programming. I am currently studying computer engineering at the University of the Southern Cone of the Americas, and I am in my 4th semester.<br><br>In my free time I dedicate myself to Front-End development with React, although I am always willing to learn new technologies related to software development. This website was created with the knowledge I have acquired so far.
+# 👋 Hi, I'm Alexander Ortiz
 
+I'm a Web Developer passionate about creating modern, scalable, and efficient software solutions. I'm currently pursuing a degree in Computer Engineering at the University of the Southern Cone of the Americas (UCSA), and I'm in my 8th semester.
+
+
+## 🚀 About Me
+
+- 💻 I specialize in building **full-stack applications** using technologies like **React.js**, **Next.js**, **TypeScript**, **NestJS**, **MongoDB**, and **Laravel**.
+- 🌐 I’ve contributed to projects such as:
+  - A **Document Management System**
+  - A **Turn Management System**
+  - The **institutional website of Financiera Paraguayo Japonesa**
+  - A **Trust Fund Administration Platform**
+
+- ✨ I enjoy developing intuitive UIs, clean APIs, and robust backend logic.
+
+- 📚 I’m always learning and open to collaborating on challenging and innovative projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Alexander-o-18a7a1248) 
