@@ -10,21 +10,11 @@
 
 </div>
 
-I'm a Full Stack Developer passionate about creating modern, scalable, and efficient software solutions. I'm currently pursuing a degree in Computer Engineering at the University of the Southern Cone of the Americas (UCSA), and I'm in my 8th semester.
-
-## 🚀 About Me
-
-💻 I specialize in building **full-stack applications** using technologies like **React.js**, **Next.js**, **TypeScript**, **NestJS**, and **Laravel**.
-
-🌐 I’ve contributed to projects such as:
-  - The **institutional website of Financiera Paraguayo Japonesa**
-  - A **Document Management System**
-  - A **Turn Management System**
-  - A **Trust Fund Administration Platform**
-
-✨ I enjoy developing intuitive UIs, clean APIs, and robust backend logic.
-
-📚 I’m always learning and open to collaborating on challenging and innovative projects.
+<div align="center">
+Frontend developer with experience building and migrating complex web applications in enterprise environments.
+Currently working on financial systems and CRM, focusing on improving architecture, maintainability, and user experience.
+I have a full-stack background (NestJS, Laravel), which allows me to collaborate effectively with backend teams.
+</div>
 
 <div align="center">
 
@@ -66,14 +56,9 @@ I'm a Full Stack Developer passionate about creating modern, scalable, and effic
 
 </div>
 
-# 📊 GitHub Stats:
-
 <div align="center">
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AlexanderOI&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexanderOI&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AlexanderOI&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
